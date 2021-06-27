@@ -5,7 +5,7 @@ import github from './assets/img/icons/common/github.svg'
 import airbnb from './assets/img/icons/common/airbnbLogo.png'
 
 export const greetings = {
-    "name": "Nicoarkano",
+    "name": "Nicolas Gimenez",
     "title": "Hi all, I'm Nico",
     "description": "A passionate Front End Developer, Blockchain Expert Knowledge and Javascript Engineer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Flask / Nextjs/ Gatsby and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
     "resumeLink": "https://nicoarkano.ml"
