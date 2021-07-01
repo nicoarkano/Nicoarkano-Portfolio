@@ -1,5 +1,6 @@
 import emoji from 'react-easy-emoji';
-
+import marchiquita from 'https://ucarecdn.com/9b8cf65b-648f-4c9f-aab3-761dfb04ac91/xhS3MobA_400x400.jpg'
+import defilab from 'https://ucarecdn.com/aa828812-3f22-4bfe-8994-30bad6299e7c/21ff8bf0510543fd96a573a6657903fc.jpeg'
 import googlelogo from './assets/img/icons/common/google.svg'
 import github from './assets/img/icons/common/github.svg'
 import airbnb from './assets/img/icons/common/airbnbLogo.png'
@@ -155,9 +156,9 @@ export const educationInfo = [
 
 export const experience = [
   {
-    role: 'Software Engineer',
-    company: 'Google',
-    companylogo: googlelogo,
+    role: 'Project Manager',
+    company: 'Municipality of Mar Chiquita',
+    companylogo: marchiquita,
     date: 'June 2018 – Present',
     desc:
       'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
@@ -169,7 +170,7 @@ export const experience = [
   {
     role: 'Front-End Developer',
     company: 'Defi Lab',
-    companylogo: github,
+    companylogo: defilab,
     date: 'May 2017 – May 2018',
     desc:
       'Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
