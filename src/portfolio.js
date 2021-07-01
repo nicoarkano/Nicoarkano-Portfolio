@@ -58,10 +58,6 @@ export const skillsSection = {
         fontAwesomeClassname: 'logos:javascript',
       },
       {
-        skillName: 'TypeScript',
-        fontAwesomeClassname: 'logos:typescript-icon',
-      },
-      {
         skillName: 'reactjs',
         fontAwesomeClassname: 'vscode-icons:file-type-reactjs',
       },
@@ -73,26 +69,16 @@ export const skillsSection = {
         skillName: 'flutter',
         fontAwesomeClassname: 'logos:flutter',
       },
-      {
-        skillName: 'swift',
-        fontAwesomeClassname: 'vscode-icons:file-type-swift',
-      },
+      
       {
         skillName: 'npm',
         fontAwesomeClassname: 'vscode-icons:file-type-npm',
       },
       {
-        skillName: 'sql-database',
-        fontAwesomeClassname: 'vscode-icons:file-type-sql',
-      },
-      {
         skillName: 'mongoDB',
         fontAwesomeClassname: 'vscode-icons:file-type-mongo',
       },
-      {
-        skillName: 'aws',
-        fontAwesomeClassname: 'logos:aws',
-      },
+   
       {
         skillName: 'firebase',
         fontAwesomeClassname: 'logos:firebase',
@@ -119,30 +105,38 @@ export const SkillBars = [
       progressPercentage: '90', //Insert relative proficiency in percentage
     },
     {
-      Stack: 'Backend',
-      progressPercentage: '70',
-    },
-    {
       Stack: 'Programming',
       progressPercentage: '60',
     },
-  ]
+ 
+    {
+      Stack: 'English',
+      progressPercentage: '50',
+    },
+    {
+      Stack: 'Backend',
+      progressPercentage: '45',
+    },
+]
 
 export const educationInfo = [
     {
-      schoolName: 'Harvard University',
-      subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
-      desc: 'Participated in the research of XXX and published 3 papers.',
+      schoolName: 'Platzi',
+      subHeader: 'Blockchain and Criptocurrency School',
+      duration: 'March 2020 - June 2020',
+      desc: 'Platzi teach me the basic knowledge to afront mi life',
       descBullets: [
-        'Lorem ipsum dolor sit amet, consectetur adipdfgiscing elit',
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+        'Blockchain Basic Knowledge'
+	 'Programming Basic'
+	 'ICO ITO'
+	 "Bitcoin's Protocol"
+	 "Ethereum's Protocol",
       ],
     },
     {
-      schoolName: 'Harvard',
+      schoolName: 'FreeCodeCamp',
       subHeader: 'Master of Science in Computer Science',
-      duration: 'September 2017 - April 2019',
+      duration: 'March 2021 - June 2021',
       desc: 'Participated in the research of XXX and published 3 papers.',
       descBullets: [
         'Lorem ipsum dolor sit amet, consectetfgur adipiscing elit',
@@ -150,9 +144,9 @@ export const educationInfo = [
       ],
     },
     {
-      schoolName: 'Stanford University',
-      subHeader: 'Bachelor of Science in Computer Science',
-      duration: 'September 2013 - April 2017',
+      schoolName: 'University of Helsinki',
+      subHeader: 'Full Stack Open 2021',
+      duration: 'June 2021 - January 2022',
       desc:
         'Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...',
       descBullets: ['Lorem ipsum dolorfdg sit amet, consectetur adipiscing elit'],
@@ -174,19 +168,11 @@ export const experience = [
   },
   {
     role: 'Front-End Developer',
-    company: 'Github',
+    company: 'Defi Lab',
     companylogo: github,
     date: 'May 2017 – May 2018',
     desc:
       'Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
-  },
-  {
-    role: 'Software Engineer Intern',
-    company: 'Airbnb',
-    companylogo: airbnb,
-    date: 'Jan 2015 – Sep 2015',
-    desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
   },
 ]
 
