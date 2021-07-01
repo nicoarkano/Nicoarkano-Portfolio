@@ -127,10 +127,10 @@ export const educationInfo = [
       duration: 'March 2020 - June 2020',
       desc: 'Platzi teach me the basic knowledge to afront mi life',
       descBullets: [
-        'Blockchain Basic Knowledge'
-	 'Programming Basic'
-	 'ICO ITO'
-	 "Bitcoin's Protocol"
+        'Blockchain Basic Knowledge',
+	 'Programming Basic',
+	 'ICO ITO',
+	 "Bitcoin's Protocol",
 	 "Ethereum's Protocol",
       ],
     },
