@@ -1,5 +1,5 @@
 import emoji from 'react-easy-emoji';
-import defilab from './assets/img/icons/common/defilab.jpeg'
+import defilab from './assets/img/icons/common/defilab.svg'
 import marchiquita from './assets/img/icons/common/marchiquita.jpg'
 
 export const greetings = {
@@ -179,10 +179,7 @@ export const experience = [
       'Ensuring user experience determines design choices.',
       'Developing features to enhance the user experience.',
       'Striking a balance between functional and aesthetic design.',
-      'Ensuring web design is optimized for smartphones.',
       'Building reusable code for future use.',
-      'Optimizing web pages for maximum speed and scalability.',
-      'Maintaining brand consistency throughout the design.',
     ]
 
   },
