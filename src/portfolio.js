@@ -156,21 +156,35 @@ export const experience = [
     role: 'Project Manager',
     company: 'Municipality of Mar Chiquita',
     companylogo: marchiquita,
-    date: 'June 2018 – Present',
+    date: 'June 2018 – December 2019',
     desc:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'Development high impact projects on the community.',
     descBullets: [
-      'Lorem ipsum dolor sit amet, consdfgectetur adipiscing elit',
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit',
+   'Leading project planning sessions',
+   'Coordinating staff and internal resources',
+   'Managing project progress and adapt work as required',
+   'Conducting project review and creating detailed reports for executive staff',
+   'Securing growth opportunities and initiating new projects',
     ],
   },
   {
     role: 'Front-End Developer',
     company: 'Defi Lab',
     companylogo: defilab,
-    date: 'May 2017 – May 2018',
-    desc:
-      'Lorem ipsum dolor sit amet, consefdctetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+    date: 'January 2020 – May 2021',
+    desc:'Creation of a dynamic website that lists the prices of Bitcoin',
+    descBullets: [
+
+      'Determining the structure and design of web pages',
+      'Ensuring user experience determines design choices.',
+      'Developing features to enhance the user experience.',
+      'Striking a balance between functional and aesthetic design.',
+      'Ensuring web design is optimized for smartphones.',
+      'Building reusable code for future use.',
+      'Optimizing web pages for maximum speed and scalability.',
+      'Maintaining brand consistency throughout the design.',
+    ]
+
   },
 ]
 
