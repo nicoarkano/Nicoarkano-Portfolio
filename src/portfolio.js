@@ -1,8 +1,6 @@
 import emoji from 'react-easy-emoji';
-import marchiquita from 'https://ucarecdn.com/9b8cf65b-648f-4c9f-aab3-761dfb04ac91/xhS3MobA_400x400.jpg'
-import defilab from 'https://ucarecdn.com/aa828812-3f22-4bfe-8994-30bad6299e7c/21ff8bf0510543fd96a573a6657903fc.jpeg'
-import googlelogo from './assets/img/icons/common/google.svg'
-import github from './assets/img/icons/common/github.svg'
+import defilab from './assets/img/icons/common/defilab.jpeg'
+import marchiquita from './assets/img/icons/common/marchiquita.jpg'
 import airbnb from './assets/img/icons/common/airbnbLogo.png'
 
 export const greetings = {
