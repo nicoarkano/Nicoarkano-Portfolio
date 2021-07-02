@@ -1,7 +1,6 @@
 import emoji from 'react-easy-emoji';
 import defilab from './assets/img/icons/common/defilab.jpeg'
 import marchiquita from './assets/img/icons/common/marchiquita.jpg'
-import airbnb from './assets/img/icons/common/airbnbLogo.png'
 
 export const greetings = {
     "name": "Nicolas Gimenez",
