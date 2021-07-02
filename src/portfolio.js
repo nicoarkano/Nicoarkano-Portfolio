@@ -1,5 +1,5 @@
 import emoji from 'react-easy-emoji';
-import defilab from './assets/img/icons/common/defilab.svg'
+import defilab from './assets/img/icons/common/defilab.jpg'
 import marchiquita from './assets/img/icons/common/marchiquita.jpg'
 
 export const greetings = {
