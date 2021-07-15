@@ -185,21 +185,3 @@ export const experience = [
   },
 ]
 
-export const projects = [
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-  },
-  {
-    name: "lorem ipsum",
-    desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    link: {
-      name: "hanzla",
-      url: "kasjfklsdjf"
-    }
-  }
-]
