@@ -5,7 +5,7 @@ import marchiquita from './assets/img/icons/common/marchiquita.jpg'
 export const greetings = {
     "name": "Nicolas Gimenez",
     "title": "Hi all, I'm Nico",
-    "description": "A passionate Front End Developer, Blockchain Expert Knowledge and Javascript Engineer having an experience of building Web applications with JavaScript / Reactjs / Nodejs / Python / Flask / Nextjs/ Gatsby and some other cool libraries and frameworks and Cross Platform Mobile Apps With Flutter.",
+    "description": "Soy un apasionado Desarollador Web Full Stack. Especialista en Blockchain, Javascript y Linux. Con experiencia desarollando aplicaciones con  JavaScript / Reactjs / Nodejs / Python / Flask / Nextjs/ Gatsby y muchas otras librerias y frameworks. También hago un poco de desarollo mobile multiplataforma con  Flutter.",
     "resumeLink": "https://nicoarkano.ml"
 }
 
@@ -27,7 +27,7 @@ export const socialLinks = {
 
 export const skillsSection = {
     title: 'What I do',
-    subTitle: 'CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY JAVASCRIPT FRAMEWORK ',
+    subTitle: 'Desarollo software eficiente de calidad, amparandome en buenas practicas de desarollo. Creo, construyo y me involucro en diversas comunidades orientadas al sector IT. Hago servicios de consultoria y sirvo de guia en los campos que domino.',
     skills: [
       emoji(
         '⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications'
